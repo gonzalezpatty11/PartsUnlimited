@@ -4,6 +4,8 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+//Cambio squash 2
+
 namespace PartsUnlimited.Models
 {
     public class Category
