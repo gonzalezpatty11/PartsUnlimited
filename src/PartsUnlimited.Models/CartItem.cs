@@ -17,7 +17,7 @@ namespace PartsUnlimited.Models
         public string CartId { get; set; }
         public int ProductId { get; set; }
         public int Count { get; set; }
-        public integer1
+        public integer1 333$
 
         [DataType(DataType.DateTime)]
         public DateTime DateCreated { get; set; }
