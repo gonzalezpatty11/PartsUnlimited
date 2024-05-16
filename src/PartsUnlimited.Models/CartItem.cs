@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     //modificacion 15-05-2024 l 
     //cambio en la relase
+    //cambio squash 
     public class CartItem
     {
         [Key]
