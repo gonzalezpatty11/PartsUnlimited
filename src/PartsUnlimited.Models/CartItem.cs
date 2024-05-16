@@ -8,6 +8,7 @@ namespace PartsUnlimited.Models
 {
     //modificacion 15-05-2024 l 
     //cambio en la relase
+    //cambio squash 
     public class CartItem
     {
         [Key]
@@ -17,7 +18,7 @@ namespace PartsUnlimited.Models
         public string CartId { get; set; }
         public int ProductId { get; set; }
         public int Count { get; set; }
-        public integer1
+        public int Conflicto {get; set;}
 
         [DataType(DataType.DateTime)]
         public DateTime DateCreated { get; set; }
